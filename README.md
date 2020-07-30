@@ -1,5 +1,10 @@
 # hello-jamaica
-this will be my github tutorial and a setp for all my future projects
+
+here is a link to the tutorial 
+
+https://guides.github.com/activities/hello-world/
+
+this will be my github tutorial and a setup for all my future projects
 I am struggling to catch up on my project for the javascript portion of the course.
 I dont want to fail\\\Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
 
